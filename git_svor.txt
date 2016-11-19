@@ -39,3 +39,7 @@ cd ~ Fer beint til baka (home directory)
 ls Listi af upplysingum 
 pwd Breytir um drif 
 mkdir Býr til skrá
+
+
+hofundur
+Sandra Dögg Kristmundsdóttir
