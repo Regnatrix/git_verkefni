@@ -32,3 +32,10 @@ Margir commita eftir tima en mer finst það eiga vera gert þegar þu lagar eit
 
 6. Hvernig eru Working directory, Staging area og Repository frábrugðin í GIT, til hvers eru þau?
 Working directory er mappan sem við erum að vinna í (í þessu tilfelli git_verkefni). Staging area er að gera skjalið tilbuið. Repository er geymslan.
+
+7. Hvenær væri sniðugt að nota branches? 
+Þegar þu ert að breyta koðanum 
+cd ~ Fer beint til baka (home directory) 
+ls Listi af upplysingum 
+pwd Breytir um drif 
+mkdir Býr til skrá
