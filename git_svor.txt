@@ -9,4 +9,9 @@ Git spurningar og svör
 	pwd
 	mkdir
 	
-	cd = back to root
+	Cd: breyta skrá 
+	cd ~: Fer beint til baka (home directory) 
+	ls: listi af upplysingum 
+	pwd: Breytir um drif 
+	mkdir: Býr til skrá 
+
