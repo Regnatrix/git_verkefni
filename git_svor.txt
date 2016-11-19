@@ -30,3 +30,5 @@ Hverjir eru helstu kostir við að nota GIT?
 5. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? 
 Margir commita eftir tima en mer finst það eiga vera gert þegar þu lagar eithvað staðsetninga villu eða þegar þu bætir við koða sem virkar 
 
+6. Hvernig eru Working directory, Staging area og Repository frábrugðin í GIT, til hvers eru þau?
+Working directory er mappan sem við erum að vinna í (í þessu tilfelli git_verkefni). Staging area er að gera skjalið tilbuið. Repository er geymslan.
