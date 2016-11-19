@@ -20,5 +20,9 @@ Git spurningar og svör
 3. Hver er munurinn á eftirfarandi git skipunum: 
 	a) git diff synir breytingar á skjali 
 	b) git diff –staged Breytir bara skjali í „staged“ svæði 
-	c) git diff commit1 commit2 
+	c) git diff commit1 commit2: munurinn á milli þeirra
+	
+4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?
+	Útgáfustýring, Version control er ser utgafa af hjalpar tæki sem hjalpar forrtunar liði að halda utan um „source code“ yfir tima
+
 
