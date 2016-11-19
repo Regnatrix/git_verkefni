@@ -3,15 +3,22 @@ Git spurningar og svör
 
 1. Hvað gera eftirfarandi Linux skipanir?
 	
-	cd
-	cd ~
-	ls
-	pwd
-	mkdir
-	
 	Cd: breyta skrá 
 	cd ~: Fer beint til baka (home directory) 
 	ls: listi af upplysingum 
 	pwd: Breytir um drif 
 	mkdir: Býr til skrá 
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+
+	git clone: klónar repository í nýtt directory
+	git log: sýnir commit loggin
+	git status: sýnir núverandi status
+	git diff: sýnir muninn á milli skránna fyrir og eftir breytingar
+	git checkout: Switch branches or restore working tree files
+	
+3. Hver er munurinn á eftirfarandi git skipunum: 
+	a) git diff synir breytingar á skjali 
+	b) git diff –staged Breytir bara skjali í „staged“ svæði 
+	c) git diff commit1 commit2 
 
