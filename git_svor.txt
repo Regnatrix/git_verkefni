@@ -27,3 +27,6 @@ Version control er ser utgafa af hjalpar tæki sem hjalpar forrtunar liði að h
 Hverjir eru helstu kostir við að nota GIT? 
 Það er að það er hægt að nota það þegar þu ert ekki nettengdur og það er fljott og auðvelt að vinna með það 
 
+5. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? 
+Margir commita eftir tima en mer finst það eiga vera gert þegar þu lagar eithvað staðsetninga villu eða þegar þu bætir við koða sem virkar 
+
